@@ -39,8 +39,8 @@ Then open **http://localhost:5173** in your browser.
 ## Requirements
 
 - **macOS** with Apple Silicon (M1/M2/M3/M4)
-- **Python 3.13+**
-- **Node.js 18+**
+- **[Python 3.13+](https://www.python.org/downloads/)** - Download and install before running
+- **[Node.js 18+](https://nodejs.org/en/download/)** - Download and install before running
 - **~6GB disk space**
 
 ---
