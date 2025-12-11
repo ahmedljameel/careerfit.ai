@@ -1,4 +1,4 @@
-# CareerFit.AI 🚀
+# AI CareerFit 🚀
 
 An AI-powered career assistant that helps you create professional resumes, check ATS scores, and find job opportunities.
 
