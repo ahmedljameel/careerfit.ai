@@ -5,7 +5,7 @@ An AI-powered career assistant that helps you create professional resumes, check
 ## Download & Setup
 
 ### Step 1: Download the Project Files
-
+Note: You should click on each file to download it.
 Download all 4 zip files from this repository:
 - `AJ_Project.zip`
 - `AJ_Project.z01`
